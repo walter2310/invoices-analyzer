@@ -4,7 +4,7 @@
 ![AI](https://img.shields.io/badge/AI-GPT--4o--mini-important)
 ![Pandas](https://img.shields.io/badge/pandas-2.0%2B-orange)
 
-**Powered by GPT-4o-mini** - A complete AI-driven solution for intelligent invoice processing, analysis, and automated reporting.
+**Powered by GPT-4o-mini** - A AI-driven solution for intelligent invoice processing, analysis, and automated reporting.
 ## Features
 
 - 📄 **Invoice Processing**

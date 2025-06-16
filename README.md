@@ -1,11 +1,10 @@
 # Invoice Analysis System
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Pandas](https://img.shields.io/badge/pandas-1.3%2B-orange)
-![Matplotlib](https://img.shields.io/badge/matplotlib-3.4%2B-blueviolet)
+![Python](https://img.shields.io/badge/python-3.11.7-blue)
+![AI](https://img.shields.io/badge/AI-GPT--4o--mini-important)
+![Pandas](https://img.shields.io/badge/pandas-2.0%2B-orange)
 
-A solution for processing, analyzing, and visualizing invoice data with automated PDF reporting capabilities.
-
+**Powered by GPT-4o-mini** - A complete AI-driven solution for intelligent invoice processing, analysis, and automated reporting.
 ## Features
 
 - 📄 **Invoice Processing**
